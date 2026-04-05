@@ -91,7 +91,7 @@
 
 ### Optimos Inc
 #### 🔹 Sr. Java Consultant (Peewaukee, WI | Herndon, VA - Fulltime) Aug2004 – Feb2006
-- **Clients:** Union Pacific Rail Roads (UPRR), DEX Media, Hughes Telematics Inc (Verizon Telematics)
+- **Clients:** GE Healthcare, Lafarge North America
 - **Technical Stack:** Java, Struts, JSP, Oracle, Jasper Reports, JavaScript
 
 ---
