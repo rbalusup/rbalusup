@@ -85,7 +85,7 @@
 - Led and developed a high-performing engineering team through strategic hiring, mentoring, performance evaluations, and career development programs, achieving increase in team productivity by and aligning ambitious growth objectives.
 
 ### Prokarma Inc (acquired by Concentrix Corporation)
-#### 🔹 Technical Lead (Denver, CO | Omaha, NE | Hyderabad, India - Fulltime) Mar2006 – Jan2012
+#### 🔹 Technical Lead (Denver, CO | Omaha, NE | Hyderabad, India - Fulltime) Mar2006 – Jun2012
 - **Clients:** Union Pacific Rail Roads (UPRR), DEX Media, Hughes Telematics Inc (Verizon Telematics)
 - **Technical Stack:** Java, Spring, Hibernate, JavaScript, SOAP-based Webservices, JMS, CMS, IBM Mainframe
 
