@@ -42,7 +42,7 @@
 
 ## 💼 Professional Experience
 
-### Centene Corporation @ APEX Systems LLC (Remote - Contract) Mar2025 – Dec2025
+### Centene Corporation @ APEX Systems LLC (Remote - Contract) Mar2025 – Feb2026
 #### 🔹 Lead Application Engineer / Cloud Architect
 ##### 🚀 Intelligent Document Processing Platform
 - Architected end-to-end serverless OCR document processing platform on AWS leveraging Lambda, Step Functions, EventBridge, and Textract to automate enrollment data extraction from healthcare PDFs
